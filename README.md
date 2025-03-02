@@ -1725,9 +1725,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </td>
         <td align="center">
             <a href="https://github.com/SasidharanMahadevan">
-                <img src="https://avatars.githubusercontent.com/u/198742847?v=4" width="100px;" alt="Sasidharan"/>
+                <img src="https://avatars.githubusercontent.com/u/198742847?v=4" width="100px;" alt="Sasidharan Mahadevan"/>
                 <br />
-                <sub><b>Sasidharan</b></sub>
+                <sub><b>Sasidharan Mahadevan</b></sub>
             </a>
         </td>
         </tr>
